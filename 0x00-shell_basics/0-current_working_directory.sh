@@ -1,5 +1,3 @@
 #!/bin/bash
-
-x = "$(pwd)"
-
-echo $
+PWD = $(pwd)
+echo $PWD
