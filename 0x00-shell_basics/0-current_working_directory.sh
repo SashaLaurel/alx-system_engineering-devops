@@ -1,3 +1,2 @@
 #!/bin/bash
-PWD = $(pwd)
-echo $PWD
+echo $(pwd)
