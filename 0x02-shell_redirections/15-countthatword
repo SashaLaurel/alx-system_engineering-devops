@@ -1,0 +1,2 @@
+#!/bin/bash
+grep 'number of lines' /etc/passwd 
