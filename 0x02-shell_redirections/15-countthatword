@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'number of lines' /etc/passwd 
+grep -c bin /etc/passwd 
