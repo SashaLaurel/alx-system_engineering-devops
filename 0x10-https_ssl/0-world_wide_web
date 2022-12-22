@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-# Configure my domain zone:
-# www --> 48344-lb-01 34.207.237.39
-# web-01 --> 48344-web-01 35.175.130.28
-# web-02 --> 48344-web-02 54.237.116.180
+# Configure my domain 
 
 subdomains_all=( "www" "lb-01" "web-01" "web-02" )
 
